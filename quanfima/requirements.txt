@@ -1,0 +1,12 @@
+matplotlib~=3.5.2
+nose==1.3.7
+numpy~=1.22.3
+pandas~=1.4.2
+scikit-image~=0.19.2
+scikit-learn~=1.0.2
+scipy~=1.8.0
+
+statsmodels~=0.13.2
+visvis~=1.13.0
+setuptools~=58.1.0
+pycuda~=2021.1+cuda115
