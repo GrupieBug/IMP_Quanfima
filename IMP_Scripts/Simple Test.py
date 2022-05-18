@@ -1,8 +1,8 @@
 import numpy as np
 from skimage import filters
-from quanfima import morphology as mrph
-from quanfima import visualization as vis
-from quanfima import utils
+from quanfima.quanfima import morphology as mrph
+from quanfima.quanfima import visualization as vis
+from quanfima.quanfima import utils
 
 
 def main():
